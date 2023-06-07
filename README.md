@@ -10,6 +10,6 @@ Step 2:
 Download [this folder](https://drive.google.com/drive/folders/1X3d-OW2tIx4XnGfyqqDVgdUVKCCX4Rwt?usp=sharing) into the repo.
 
 Step 3:
-Run load+models.ipynb
+Run load_models.ipynb
 
 Voila! Your predictions are now in final_predictions.csv
